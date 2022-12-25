@@ -1,0 +1,1 @@
+{ "__parent": "./colors.json" , "env": "production" , "version": "0.3.1" , "cntr": 5 , "branch": "main" , "commit": "e8527b04193d4be565af8526f544af4540a47306" , "built": { "hash": "2802" , "date": "2022-12-25" , "time": "14:07:52" , "year": "2022" , "full": "2022-12-25T14:07:52+00:00" } }
