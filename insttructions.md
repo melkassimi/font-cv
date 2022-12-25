@@ -1,61 +1,63 @@
- 33  sudo apt install nodejs npm
-   36  npm install -g gulp-cli 
-   37  sudo npm install -g gulp-cli 
-   40  sudo npm install gulp -g
-   42  npm i concurrently --save-dev
-   43  sudo npm install -g bower
-   45  sudo npm install --save-dev gulp-token-replace
-   46  npm install jimp
-   47  npm install --save jimp
-   50  sudo npm install terser -g
-   51  npm install terser
-   53  npm install gulp
-   54  sudo npm install gulp
-   56  npm install dotenv 
-   57  sudo npm install dotenv 
-   59  sudo npm install lodash
-   61  sudo npm install dateformat
-   63  sudo npm install read-config
-   65  sudo npm install vinyl-paths
-   67  sudo npm install pm2 -g
-   68  sudo npm install pm2 
-   70  npm i --save "brave-intl/queue-microtask#master"
-   74  sudo npm install globalthis
-   76  sudo npm install globalthis
-   77  sudo npm audit fix
-   78  npm audit fix
-   80  npm install globalthis
-   81  sudo npm install globalthis
-   83  less /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
-   84  taim /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
-   85  tail /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
-   86  less /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
-   87  sudo npm install globalthis apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
-   93  sudo npm install main-bower-files
-   95  sudo npm install gulp-concat-css
-   97  sudo npm install gulp-clean-css
-   99  sudo npm install gulp-concat
-  101  sudo npm install gulp-filte
-  102  sudo npm install gulp-filter
-  104  sudo npm install gulp-if
-  106  sudo npm install gulp-size
-  108  sudo npm install gulp-terser
-  110  sudo npm install gulp-*
-  112  sudo npm install gulp
-  114  sudo npm install yargs
-  116  sudo npm install gulp-ext-replace
-  118  sudo npm install gulp-jimp
-  120  sudo npm install  imagemin
-  122  sudo npm install node-fetch@2
-  130  sudo npm install node-fetch@2.6.7
-  131  sudo npm install --save-dev @types/node-fetch@2.x
-  137  npm cache clean --force
-  146  npm install gulp
-  165  npm install gulp
-  222  npm install gulp
-  240  npm install gulp
-  285  histroy | grep npm
-  286  history | grep npm
+## NODEJS >=14
+
+sudo apt install nodejs npm
+ npm install -g gulp-cli 
+sudo npm install -g gulp-cli 
+sudo npm install gulp -g
+npm i concurrently --save-dev
+sudo npm install -g bower
+sudo npm install --save-dev gulp-token-replace
+npm install jimp
+npm install --save jimp
+sudo npm install terser -g
+npm install terser
+npm install gulp
+sudo npm install gulp
+npm install dotenv 
+sudo npm install dotenv 
+sudo npm install lodash
+ sudo npm install dateformat
+sudo npm install read-config
+sudo npm install vinyl-paths
+ sudo npm install pm2 -g
+ sudo npm install pm2 
+  npm i --save "brave-intl/queue-microtask#master"
+ sudo npm install globalthis
+  sudo npm install globalthis
+ sudo npm audit fix
+ npm audit fix
+  npm install globalthis
+ sudo npm install globalthis
+  less /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
+     taim /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
+   tail /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
+ less /home/moncif_elkassimi/.npm/_logs/2022-12-24T17_18_07_698Z-debug.log
+  sudo npm install globalthis apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
+  sudo npm install main-bower-files
+  sudo npm install gulp-concat-css
+ sudo npm install gulp-clean-css
+  sudo npm install gulp-concat
+  sudo npm install gulp-filte
+  sudo npm install gulp-filter
+   sudo npm install gulp-if
+   sudo npm install gulp-size
+  sudo npm install gulp-terser
+  sudo npm install gulp-*
+  sudo npm install gulp
+  sudo npm install yargs
+ sudo npm install gulp-ext-replace
+  sudo npm install gulp-jimp
+  sudo npm install  imagemin
+  sudo npm install node-fetch@2
+  sudo npm install node-fetch@2.6.7
+ sudo npm install --save-dev @types/node-fetch@2.x
+   npm cache clean --force
+  npm install gulp
+  npm install gulp
+  npm install gulp
+ npm install gulp
+  histroy | grep npm
+  history | grep npm
 
    22  sudo apt install make
    23  sudo apt install jq
